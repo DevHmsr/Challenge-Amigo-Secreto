@@ -29,7 +29,7 @@ Um jogo de Amigo Secreto intuitivo e prático. A interface permite que o usuári
 - `Funcionalidade 2a`: Array criada logo abaixo do prompt para facilitar a visualização
 - `Funcionalidade 3`: Botão "Sortear amigo" que realiza o sorteio aleatório para escolher o amigo secreto
 
-![GIF de aplicação do jogo em um dispositivo mobile](https://github.com/user-attachments/assets/1972b41a-77a4-469b-8885-264434b77ba6)
+![GIF Funcionalidades](https://github.com/user-attachments/assets/ff81d594-1aa1-49e4-a0bd-f38e2788c6f5)
 
 # 📁 Acesso ao projeto
 
