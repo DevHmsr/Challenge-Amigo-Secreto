@@ -24,10 +24,10 @@ Um jogo de Amigo Secreto intuitivo e prático. A interface permite que o usuári
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Prompt "Digite um nome" para digitar os nomes dos participantes
-- `Funcionalidade 2`: Botão "Adicionar" para adicionar os nomes a uma array
-- `Funcionalidade 2a`: Array criada logo abaixo do prompt para facilitar a visualização
-- `Funcionalidade 3`: Botão "Sortear amigo" que realiza o sorteio aleatório para escolher o amigo secreto
+- `Adicionar nomes`: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+- `Validar entrada`: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+- `Visualizar lista`: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+- `Sorteio aleatório`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ![GIF Funcionalidades](https://github.com/user-attachments/assets/ff81d594-1aa1-49e4-a0bd-f38e2788c6f5)
 
