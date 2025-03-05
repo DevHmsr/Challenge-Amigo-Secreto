@@ -16,19 +16,11 @@
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Autor](#autor)
 
 # :gift: Descrição do projeto
 
 Um jogo de Amigo Secreto intuitivo e prático. A interface permite que o usuário insira nomes em uma lista por meio de um prompt. Após adicionar os participantes, um sorteio define quem será o amigo secreto aleatoriamente. O projeto é leve, interativo e pode ser executado diretamente no navegador. É ideal para festas e eventos, trazendo diversão de forma rápida e prática.
-
-![Badge Tecnologias](https://img.shields.io/badge/Tecnologias%3A-gray)
-![Badge JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Badge CSS](https://img.shields.io/badge/CSS-purple)
-![Badge HTML](https://img.shields.io/badge/HTML-orange)
 
 # :hammer: Funcionalidades do projeto
 
@@ -37,9 +29,18 @@ Um jogo de Amigo Secreto intuitivo e prático. A interface permite que o usuári
 - `Funcionalidade 2a`: Array criada logo abaixo do prompt para facilitar a visualização
 - `Funcionalidade 3`: Botão "Sortear amigo" que realiza o sorteio aleatório para escolher o amigo secreto
 
-
 ![GIF de aplicação do jogo em um dispositivo mobile](https://github.com/user-attachments/assets/1972b41a-77a4-469b-8885-264434b77ba6)
 
 # 📁 Acesso ao projeto
 
 Clique [aqui](https://devhmsr.github.io/Challenge-Amigo-Secreto-Alura/) para acessar o jogo [1].
+
+# 👨‍💻 Tecnologias utilizadas
+
+![Badge Tecnologias](https://img.shields.io/badge/Tecnologias%3A-gray)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Badge CSS](https://img.shields.io/badge/CSS-purple)
+![Badge HTML](https://img.shields.io/badge/HTML-orange)
+
+# ✅ Autor
+[DevHeitormsr](https://github.com/DevHmsr)
