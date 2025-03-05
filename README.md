@@ -33,7 +33,7 @@ Um jogo de Amigo Secreto intuitivo e prático. A interface permite que o usuári
 
 # 📁 Acesso ao projeto
 
-Clique [aqui](https://devhmsr.github.io/Challenge-Amigo-Secreto-Alura/) para acessar o jogo [1].
+Clique [aqui](https://devhmsr.github.io/Challenge-Amigo-Secreto-Alura/) para acessar o jogo.
 
 # 👨‍💻 Tecnologias utilizadas
 
